@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+        <VRCReferences>true</VRCReferences>
+        <Version>1.0.0.0</Version>
+        <CopyToMods>true</CopyToMods>
+        <ModName>MyEpicTestMod</ModName>
+        <AssemblyName>$(ModName)</AssemblyName>
+    </PropertyGroup>
+</Project>
